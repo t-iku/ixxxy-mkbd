@@ -11,7 +11,7 @@
 
 ### 基板の向きについて
 
-**重要**: シルク印刷でイラストが描いてある面が**裏面（はんだ付けする面）**です。
+**注意**: シルク印刷でイラストが描いてある面が裏面（はんだ付けする面）です。
 
 [写真：基板の表面]
 
@@ -31,8 +31,8 @@
 |品名               |数量|備考     |
 |-----------------|--|-------|
 |Seeed XIAO RP2040|1 |マイコンボード|
-|Cherry MX互換キースイッチ|7 |[購入リンク](https://amzn.asia/d/51emdMk)|
-|キーキャップ           |7 |[購入リンク](https://shop.yushakobo.jp/products/dsa-blank-keycaps?srsltid=AfmBOoo3D5l7fVzxJ7DPiwicCoTri2pkyjmhVBF0B-oYr6Gz-_zGC-X5)|
+|Cherry MX互換キースイッチ|7 |[参考購入リンク](https://amzn.asia/d/51emdMk)|
+|キーキャップ           |7 |[参考購入リンク](https://shop.yushakobo.jp/products/dsa-blank-keycaps?srsltid=AfmBOoo3D5l7fVzxJ7DPiwicCoTri2pkyjmhVBF0B-oYr6Gz-_zGC-X5)|
 
 ### 工具類
 
